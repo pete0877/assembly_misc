@@ -1,0 +1,5 @@
+a - rotete left
+s - rotate right
+i - go forward (y+)
+k - go backwards (y-)
+e - exit

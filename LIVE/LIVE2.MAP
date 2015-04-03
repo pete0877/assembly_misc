@@ -1,0 +1,9 @@
+
+ Start  Stop   Length Name               Class
+
+ 00000H 000A6H 000A7H CODE               CODE
+ 000B0H 008AFH 00800H STOSIK             STACK
+ 008B0H 008B0H 00000H DATAS              DATA
+
+Program entry point at 0000:0000
+

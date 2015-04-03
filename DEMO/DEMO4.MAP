@@ -1,0 +1,10 @@
+
+ Start  Stop   Length Name               Class
+
+ 00000H 007FFH 00800H STOCK              
+ 00800H 0F52EH 0ED2FH DATA               
+ 0F52FH 0F657H 00129H CODE               
+
+Program entry point at 0F52:000F
+Warning: No stack
+

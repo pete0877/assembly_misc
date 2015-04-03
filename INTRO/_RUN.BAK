@@ -1,0 +1,1 @@
+DEMOVT music.mod /f:20000  /d:DMA-SB-Mono  /port:$220  /irq:5 /dma:1 /v:84 /sh:intro44.exe
